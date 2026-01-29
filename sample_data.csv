@@ -1,0 +1,51 @@
+employee_id,department,job_title,salary,years_experience,start_date,performance_score,remote_eligible
+1001,Engineering,Software Engineer,72000,3,2021-03-15,4.2,Yes
+1002,Engineering,Senior Software Engineer,95000,7,2017-06-20,4.5,Yes
+1003,Marketing,Marketing Analyst,58000,2,2022-01-10,3.8,No
+1004,Engineering,Data Scientist,88000,5,2019-09-01,4.1,Yes
+1005,HR,HR Coordinator,45000,1,2023-02-28,3.5,No
+1006,Marketing,Marketing Manager,82000,8,2016-04-12,4.3,No
+1007,Sales,Sales Representative,52000,2,2022-07-01,3.9,No
+1008,Engineering,DevOps Engineer,85000,4,2020-11-15,4.0,Yes
+1009,Finance,Financial Analyst,65000,3,2021-08-22,4.2,Yes
+1010,Sales,Sales Manager,78000,6,2018-05-30,4.4,No
+1011,Engineering,Software Engineer,70000,2,2022-03-01,3.7,Yes
+1012,HR,HR Manager,72000,9,2015-10-05,4.6,No
+1013,Finance,Accountant,55000,4,2020-06-14,3.8,Yes
+1014,Marketing,Content Writer,48000,1,2023-04-17,3.6,Yes
+1015,Engineering,QA Engineer,62000,3,2021-12-01,4.0,Yes
+1016,Sales,Sales Representative,50000,1,2023-01-20,3.4,No
+1017,Engineering,Senior Data Scientist,105000,8,2016-07-11,4.7,Yes
+1018,Finance,Finance Manager,92000,10,2014-03-25,4.5,No
+1019,Marketing,SEO Specialist,54000,2,2022-09-08,3.9,Yes
+1020,Engineering,Software Engineer,75000,4,2020-05-18,4.1,Yes
+1021,HR,Recruiter,52000,2,2022-06-30,3.7,No
+1022,Sales,Account Executive,68000,5,2019-08-12,4.2,No
+1023,Engineering,Frontend Developer,72000,3,2021-04-05,3.9,Yes
+1024,Finance,Senior Accountant,70000,6,2018-11-20,4.3,Yes
+1025,Marketing,Brand Manager,76000,5,2019-02-14,4.0,No
+1026,Engineering,Backend Developer,78000,4,2020-07-22,4.1,Yes
+1027,Sales,Sales Representative,51000,1,2023-03-10,,No
+1028,HR,Training Specialist,58000,3,2021-09-15,3.8,No
+1029,Engineering,Machine Learning Engineer,98000,6,2018-12-03,4.4,Yes
+1030,Finance,Financial Analyst,63000,2,2022-05-25,3.6,Yes
+1031,Marketing,Digital Marketing Manager,80000,7,2017-08-08,4.2,No
+1032,Engineering,Software Engineer,71000,3,2021-06-14,3.8,Yes
+1033,Sales,Regional Sales Manager,95000,9,2015-11-30,4.6,No
+1034,HR,HR Business Partner,68000,5,2019-04-22,4.1,No
+1035,Finance,Budget Analyst,60000,3,2021-10-10,3.9,Yes
+1036,Engineering,Site Reliability Engineer,90000,5,2019-07-17,4.3,Yes
+1037,Marketing,Marketing Analyst,56000,1,2023-05-01,3.5,No
+1038,Engineering,Software Engineer,73000,3,2021-02-08,4.0,Yes
+1039,Sales,Sales Representative,53000,2,2022-08-15,3.7,No
+1040,Finance,Controller,110000,12,2012-06-01,4.8,No
+1041,Engineering,Principal Engineer,125000,10,2014-09-20,4.9,Yes
+1042,Marketing,VP Marketing,135000,15,2009-04-15,4.7,No
+1043,HR,Chief People Officer,145000,18,2006-01-10,4.8,No
+1044,Sales,VP Sales,140000,14,2010-07-25,4.6,No
+1045,Engineering,CTO,175000,20,2004-03-01,4.9,Yes
+1046,Finance,CFO,165000,16,2008-11-12,4.8,No
+1047,Engineering,Junior Developer,52000,0,2024-01-15,3.2,Yes
+1048,Marketing,Marketing Intern,32000,0,2024-02-01,3.0,No
+1049,Sales,Sales Development Rep,48000,1,2023-06-20,3.6,No
+1050,Engineering,Data Analyst,65000,2,2022-10-30,3.9,Yes
