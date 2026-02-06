@@ -1,4 +1,4 @@
-# CSV Insights Dashboard
+# Interactive CSV Dashboard
 
 A Streamlit-based tool for exploring CSV datasets without writing code. Designed for analysts and non-technical users who need to quickly understand their data, apply basic filters, and generate common visualisations.
 
@@ -28,8 +28,8 @@ It is not intended for production data pipelines, large-scale datasets, or advan
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/csv-insights-dashboard.git
-   cd csv-insights-dashboard
+   git clone https://github.com/Hexicon404/Interactive-CSV-Dashboard
+   cd Interactive-CSV-Dashboard
    ```
 
 2. Create a virtual environment (recommended):
@@ -53,7 +53,7 @@ It is not intended for production data pipelines, large-scale datasets, or advan
 ## Project Structure
 
 ```
-csv-insights-dashboard/
+Interactive-CSV-Dashboard/
 ├── app.py              # Main application (all logic in one file)
 ├── requirements.txt    # Python dependencies
 └── README.md           # This file
