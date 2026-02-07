@@ -206,7 +206,7 @@ def main():
         st.metric("Memory", f"{df.memory_usage(deep=True).sum() / 1024:.1f} KB")
     
     # Show type conversions if any were made
-    if st.session_state.conversion_changes:
+    if st.session_state.get('conversion_changes'):
         with st.expander("Type conversions applied"):
             st.write("The following columns were automatically converted:")
             for change in st.session_state.conversion_changes:
