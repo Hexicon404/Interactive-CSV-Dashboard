@@ -1,5 +1,5 @@
 """
-CSV Insights Dashboard
+Interactive-CSV-Dashboard
 A simple interactive tool for exploring CSV datasets.
 
 Built for non-technical users who need to quickly understand 
