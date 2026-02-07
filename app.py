@@ -1,5 +1,5 @@
 """
-Interactive-CSV-Dashboard
+Interactive CSV Dashboard
 A simple interactive tool for exploring CSV datasets.
 
 Built for non-technical users who need to quickly understand 
@@ -17,7 +17,7 @@ from io import BytesIO
 # =============================================================================
 
 st.set_page_config(
-    page_title="CSV Insights Dashboard",
+    page_title="Interactive CSV Dashboard ",
     page_icon="📊",
     layout="wide"
 )
@@ -115,7 +115,7 @@ def convert_df_to_csv(df):
 # =============================================================================
 
 def main():
-    st.title("📊 CSV Insights Dashboard")
+    st.title("📊 Interactive CSV Dashboard")
     st.markdown("Upload a CSV file to explore its structure, filter data, and create visualisations.")
     
     # -------------------------------------------------------------------------
