@@ -57,3 +57,11 @@ streamlit run app.py
 ## Licence
 
 MIT
+
+
+## Limitations
+
+- The dashboard is designed for exploratory analysis and does not perform statistical inference or predictive modeling.
+- Performance may degrade for extremely large datasets due to in-memory processing.
+- The tool assumes reasonably clean tabular data and does not replace domain-specific preprocessing pipelines.
+
